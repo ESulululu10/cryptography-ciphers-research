@@ -8,7 +8,7 @@ This repository contains a cryptography-focused research report submitted by **G
 
 > **Title:** Cryptography Systems and Custom Cipher Development  
 > **Module:** Cryptography and Computer Security  
-> **Author:** Gaurab Khadka – 20049148  
+> **Author:** Gaurab Khadka 
 > **Year:** 2022  
 
 The report investigates:
